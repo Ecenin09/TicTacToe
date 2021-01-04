@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6e1cf1751b7764e4fb7a33d28fa0f1dc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HABESHAPIXELS-Bold
+  fontNames:
+  - HABESHAPIXELS-Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 3
+  ascentCalculationMode: 2
+  useLegacyBoundsCalculation: 1
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

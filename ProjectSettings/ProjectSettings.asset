@@ -246,8 +246,8 @@ PlayerSettings:
   AndroidTargetArchitectures: 3
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: '{dedicated}: Desktop/Int21.keystore'
-  AndroidKeyaliasName: triplet
+  AndroidKeystoreName: C:/Users/eceni/Desktop/Unity Staff/AndroidBuilds/Int21.keystore
+  AndroidKeyaliasName: triple t
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
